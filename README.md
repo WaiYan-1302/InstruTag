@@ -1,6 +1,6 @@
 # InstruTag
 
-A multi-label instrument tagger that listens like a jazz ensemble: one model holds the groove (BiGRU + Attention), one model takes crisp solos (per-class XGBoost), and the ensemble lands the changes with a learned blend and per-instrument thresholds.
+A multi-label instrument tagger that listens and tell what instruments involved in a music clip: one model holds the groove (BiGRU + Attention), one model takes crisp solos (per-class XGBoost), and the ensemble lands the changes with a learned blend and per-instrument thresholds.
 
 ---
 
